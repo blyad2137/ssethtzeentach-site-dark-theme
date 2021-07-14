@@ -1,0 +1,312 @@
+@-moz-document domain("ssethtzeentach.com") {
+.main-navigation-wrapper, .tab-navigation a, .-boxed > .teaser-boxes-item, .main-navigation > ul > li > a.active:not(.highlight):after, .main-navigation > ul > li > a.trail:not(.highlight):after, .main-navigation > ul > li > a.forward:not(.highlight):after, .main-navigation > ul > li > strong.active:not(.highlight):after, .main-navigation > ul > li > strong.trail:not(.highlight):after, .main-navigation > ul > li > strong.forward:not(.highlight):after, .main-navigation > ul > li > span.active:not(.highlight):after, .main-navigation > ul > li > span.trail:not(.highlight):after, .main-navigation > ul > li > span.forward:not(.highlight):after {
+	background: #15161a;
+	border-color: #3c3c3c;
+}
+.tab-start.-has-border, hr, .headline-hr:before, .headline-hr:after, .tab-navigation, .main-navigation > ul > li > ul li, fieldset {
+	border-color: #3c3c3c;
+}
+.headline-box h3, .footer-copyright {
+    color: #68707b;
+}
+.page {
+	background: #15161a;
+}
+body, .tagline + .content-wrapper {
+	background: #15161a url(https://forum.ssethtzeentach.com/Themes/SunRise20/images/body_nighttime.jpg) no-repeat;
+	background-repeat: repeat-y;
+    background-position: 0px 300px;
+    background-size: contain;
+}
+.main-content h2, html, .main-content h1, .main-navigation > ul > li > a, .main-navigation > ul > li > strong, .main-navigation > ul > li > span.active, .main-navigation > ul > li > span.trail, .main-navigation > ul > li > span.forward, .main-navigation > ul > li > ul a {
+	color: #d4d4d4;
+}
+.cc_container {
+	background: #15161a;
+	border-color: #444;
+	color: #666;
+}
+.footer-icon-links a:hover, .footer-icon-links a:focus {
+	background: #3c3c3c;
+	color: #15161a;
+}
+.footer-icon-links a {
+	border-color: #3c3c3c;
+	color: #68707b;
+}
+.tab-navigation a.is-active {
+    box-shadow: 0 10px 0 -1px #15161a, 0 -3px #7d26cd, -3px 0 3px -1px rgb(0 0 0 / 10%), 3px 0 3px -1px rgb(0 0 0 / 10%);
+}
+.rsts-skin-default .rsts-prev, .rsts-skin-default .rsts-next, .rsts-skin-default .rsts-video-play, .rsts-skin-default .rsts-video-stop, .rsts-skin-default .rsts-thumbs-prev, .rsts-skin-default .rsts-thumbs-next {
+	filter: invert(.935);
+}
+.valid_input {
+    background-color: #1e2819;
+}
+.invalid_input {
+    background-color: #331b1b;
+}
+input[disabled].input_text {
+	background: #333;
+	color: #15161a;
+}
+.shoutbox_list_compact li {
+	border-bottom-color: #444;
+	border-left-color: #3a3a3a;
+}
+.user img.avatar {
+	width: auto;
+	height: auto;
+	max-width: 35px;
+	max-height: 35px;
+	object-fit: cover;
+}
+.sp_center.sp_fullwidth {
+	visibility: hidden;
+}
+.sp_center.sp_fullwidth:after {
+	content: 'Shalom,';
+	visibility: visible;
+	position: relative;
+	bottom: 374px;
+	right: 73px;
+}
+.sp_center.sp_fullwidth > strong:nth-of-type(1) {
+	position: relative;
+	left: 12px;
+}
+strong, br, img, ul, a {
+	visibility: visible;
+}
+.main-navigation > ul > li > ul a:hover {
+	background: #15161f;
+}
+.main-navigation > ul > li > ul {
+	background: #15161a;
+	border-color: #3c3c3c;
+}
+.main-navigation > ul > li.submenu:hover > a:after, .main-navigation > ul > li.submenu:hover > strong:after, .main-navigation > ul > li.submenu:hover > span.active:after, .main-navigation > ul > li.submenu:hover > span.trail:after, .main-navigation > ul > li.submenu:hover > span.forward:after {
+    box-shadow: 0 -3px 3px rgb(0 0 0 / 10%), inset 1px 0 #3c3c3c, inset -1px 0 #3c3c3c, inset 0 -10px #15161a;;
+}
+input, textarea {
+	background: #15161a;
+	border-color: #3c3c3c;
+	border-bottom-color: #4f4f4f;
+}
+input:hover, textarea:hover {
+    border-color: #4f4f4f #4f4f4f #454545;
+}
+[src='files/ssethtzeentach/img/logo.png'] {
+	content: url('https://i.imgur.com/rOaWtJs.png');
+	position: relative;
+	bottom: 45px;
+}
+.logo a:before {
+	content: 'SsethTzeentach™';
+	position: relative;
+	left: 62px;
+	top: 9px;
+	font-size: 35px;
+	font-weight: 1;
+	color: #d4d4d4;
+}
+.ui-widget-overlay {
+	background: #15161a;
+}
+.footer-top-link:hover:after, .footer-top-link:focus:after {
+    background-color: #1f1e20;
+}
+strong.active.submenu.last:after {
+	background: #0000 !important;
+	border-top-color: #7d26cd !important;
+}
+.main-navigation > ul > li > ul a.active, .main-navigation > ul > li > ul a.trail, .main-navigation > ul > li > ul a.forward, .main-navigation > ul > li > ul strong.active, .main-navigation > ul > li > ul strong.trail, .main-navigation > ul > li > ul strong.forward, .main-navigation > ul > li > ul span.active, .main-navigation > ul > li > ul span.trail, .main-navigation > ul > li > ul span.forward {
+    color: #818ea4;
+}
+.imgur-embed-iframe-pub {
+	border-color: #333;
+}
+}
+
+@-moz-document domain("wiki.ssethtzeentach.com") {
+body, .tagline + .content-wrapper {
+	background: #15161a url(https://forum.ssethtzeentach.com/Themes/SunRise20/images/body_nighttime.jpg) no-repeat;
+	background-repeat: repeat-y;
+    background-position: 0px 300px;
+    background-size: contain;
+	color: #fff;
+}
+#mw-content-container {
+	background: #0000;
+}
+#mw-header-container {
+	background: #15161a;
+	color: #fff;
+}
+#p-logo-text a, .tools-inline li.selected a, .suggestions a.mw-searchSuggest-link, .suggestions a.mw-searchSuggest-link:hover, .suggestions a.mw-searchSuggest-link:active, .suggestions a.mw-searchSuggest-link:focus {
+	color: #fff;
+}
+#simpleSearch {
+	background: #15161a;
+	border-color: #484a4d;
+}
+#personal h2, #searchButton, #mw-searchButton, #p-views li, #p-more li, .tools-inline li[id^='ca-nstab-'] a, #ca-talk a, div.magnify a, #mw-indicator-mw-helplink a, .oo-ui-icon-close, .mw-ui-icon-close:before, .oo-ui-icon-menu, .mw-ui-icon-menu:before, .oo-ui-icon-search, .mw-ui-icon-search:before, .oo-ui-icon-highlight, .mw-ui-icon-highlight:before, .oo-ui-icon-trash, .mw-ui-icon-trash:before, .oo-ui-icon-settings, .mw-ui-icon-settings:before, .oo-ui-indicator-down, .oo-ui-icon-article, .mw-ui-icon-article:before, .oo-ui-icon-tag, .mw-ui-icon-tag:before, .oo-ui-icon-play, .mw-ui-icon-play:before, .oo-ui-icon-previous, .mw-ui-icon-previous:before, .oo-ui-icon-helpNotice, .mw-ui-icon-helpNotice:before {
+	filter: invert(1) hue-rotate(180deg);
+}
+#personal h2 span, #p-views li a span, #p-more li a span, .tools-inline li[id^='ca-nstab-'] a span, #ca-talk a span {
+	filter: inherit;
+}
+#mw-content, .suggestions .suggestions-results, .suggestions, .suggestions .suggestions-special {
+	background: #15161a;
+	border-color: #3a3b3e;
+}
+#p-more li a span, #p-views li a span {
+	color: #7d26cd;
+}
+.mw-body .mw-parser-output h1:after, .mw-body .mw-parser-output h2:after, .tools-inline li:hover, #mw-site-navigation .sidebar-chunk h3, #mw-related-navigation .sidebar-chunk h3, .mw-body h2, #personal .dropdown h3, .mw-body .toctitle, .mw-rcfilters-ui-itemMenuOptionWidget:not(:last-child):not(.mw-rcfilters-ui-itemMenuOptionWidget-identifier-talk), .mw-rcfilters-ui-tagItemWidget.oo-ui-flaggedElement-muted.oo-ui-tagItemWidget.oo-ui-widget-enabled {
+	border-color: #484a4d;
+}
+#mw-site-navigation .sidebar-chunk, .thumbinner, #mw-related-navigation .sidebar-chunk {
+	background: #26242f;
+	border-color: #3a3b3e;
+}
+input, textarea, .suggestions .suggestions-result, .suggestions-special .special-query, .oo-ui-buttonElement-frameless.oo-ui-widget-enabled > .oo-ui-buttonElement-button:hover {
+	color: #fff;
+}
+.suggestions-special .special-label, .mw-rcfilters-ui-tagItemWidget.oo-ui-flaggedElement-muted.oo-ui-tagItemWidget.oo-ui-widget-enabled .oo-ui-labelElement-label {
+    color: #828891;
+}
+.thumbinner .thumbimage, .thumbborder {
+	border-color: #3a3b3e;
+}
+#contentSub, .tocnumber {
+	color: #a4a9ad;
+}
+.navbox, .navbox-subgroup {
+	background: #2b2835;
+}
+.navbox, .oo-ui-tagItemWidget {
+	border-color: #62666a;
+}
+.navbox th, .navbox-title {
+    background-color: #3e3e51;
+}
+tr + tr > .navbox-abovebelow, tr + tr > .navbox-group, tr + tr > .navbox-image, tr + tr > .navbox-list {
+	border-color: #2b2835;
+}
+.navbox-even {
+	background: #26242f;
+}
+#content .gallerybox div.thumb {
+	background: #18191a;
+}
+.mw-body li.gallerybox div.thumb, .mw-mmv-image-metadata, .mw-rcfilters-ui-filterMenuHeaderWidget-header {
+	background: #18191a;
+	border-color: #484a4d;
+}
+.mw-mmv-post-image {
+	background: #15161a;
+	color: #d0d1d2;
+}
+.mw-mmv-credit, .mw-rcfilters-ui-filterTagMultiselectWidget-wrapper-content-title, .mw-rcfilters-ui-tagItemWidget-popup-content, .mw-rcfilters-ui-filterMenuSectionOptionWidget-header-title.oo-ui-labelElement-label, .mw-rcfilters-ui-itemMenuOptionWidget-label-desc, .mw-rcfilters-ui-filterMenuOptionWidget.oo-ui-flaggedElement-muted .mw-rcfilters-ui-itemMenuOptionWidget-label-title, .mw-rcfilters-ui-filterMenuOptionWidget.oo-ui-flaggedElement-muted .mw-rcfilters-ui-itemMenuOptionWidget-label-desc, .mw-rcfilters-ui-viewSwitchWidget label.oo-ui-labelWidget {
+	color: #a4a9ad;
+}
+#personal .dropdown {
+	background: #15161a;
+	border-color: #3a3b3e;
+}
+#personal .dropdown:before {
+    border-bottom-color: #3a3b3e;
+}
+#personal .dropdown:after {
+	border-bottom-color: #15161a;
+}
+.infobox {
+	background: #18191a;
+	border-color: #62666a;
+	color: #fff;
+}
+ul#filetoc, .toc, .mw-warning {
+	background: #18191a;
+	border-color: #3a3b3e;
+}
+.mw-rcfilters-ui-filterTagMultiselectWidget.oo-ui-widget-enabled .oo-ui-tagMultiselectWidget-handle, .oo-ui-popupWidget-popup {
+	background: #18191a;
+	border-color: #62666a;
+}
+.oo-ui-tagMultiselectWidget.oo-ui-widget-enabled.oo-ui-tagMultiselectWidget-outlined .oo-ui-tagItemWidget.oo-ui-widget-enabled, .oo-ui-tagItemWidget.oo-ui-widget-enabled .oo-ui-buttonElement-button:hover {
+	background: #15161a;
+}
+.oo-ui-tagItemWidget.oo-ui-widget-enabled, .mw-rcfilters-ui-itemMenuOptionWidget-label-title, .oo-ui-menuOptionWidget.oo-ui-widget-enabled.oo-ui-optionWidget, .oo-ui-buttonElement-frameless.oo-ui-widget-enabled > .oo-ui-buttonElement-button {
+	color: #d0d1d2;
+}
+.oo-ui-textInputWidget.oo-ui-widget-enabled:hover .oo-ui-inputWidget-input {
+	border-color: #82878d;
+}
+.oo-ui-textInputWidget .oo-ui-inputWidget-input {
+	background: #15161a;
+	border-color: #62666a;
+	color: #fff;
+}
+.oo-ui-menuSelectWidget {
+	background: #15161a;
+	border-color: #62666a;
+}
+.mw-rcfilters-ui-filterMenuSectionOptionWidget {
+	background: #3a3b3e;
+}
+.oo-ui-menuSectionOptionWidget {
+	color: #82878d;
+}
+.oo-ui-buttonElement-framed.oo-ui-widget-enabled > .oo-ui-buttonElement-button:hover {
+	background: #15161a;
+	color: #b0b2b4;
+	border-color: #62666a;
+}
+.oo-ui-buttonElement-framed.oo-ui-widget-enabled > .oo-ui-buttonElement-button {
+	background: #18191a;
+	border-color: #62666a;
+	color: #d0d1d2;
+}
+.mw-rcfilters-ui-itemMenuOptionWidget:hover, .mw-rcfilters-ui-filterMenuOptionWidget.oo-ui-flaggedElement-muted:not(.oo-ui-optionWidget-selected), .oo-ui-tagMultiselectWidget.oo-ui-widget-enabled.oo-ui-tagMultiselectWidget-outlined {
+	background: #18191a;
+}
+.mw-rcfilters-ui-menuSelectWidget-footer {
+	background: #18191a;
+	border-color: #484a4d;
+}
+.oo-ui-checkboxInputWidget [type='checkbox'] + span, .mw-ui-checkbox:not(#noop) [type='checkbox'] + label:before {
+	background: #15161a;
+	border-color: #82878d;
+}
+.mw-rcfilters-ui-filterMenuOptionWidget.oo-ui-flaggedElement-muted.oo-ui-optionWidget-highlighted {
+	background: #3a3b3e;
+	color: #fff;
+}
+.oo-ui-tagMultiselectWidget.oo-ui-widget-enabled.oo-ui-tagMultiselectWidget-outlined .mw-rcfilters-ui-tagItemWidget-selected.oo-ui-tagItemWidget.oo-ui-widget-enabled {
+	background: #3a3b3e;
+}
+.mw-rcfilters-ui-filterTagMultiselectWidget-views-select-widget.oo-ui-widget {
+	border-color: #62666a;
+}
+.mw-ui-input {
+	background: #15161a;
+	border-color: #62666a;
+	color: #fff;
+}
+.errorbox {
+    background-color: #351d1c;
+}
+.messagebox, .errorbox, .warningbox, .successbox {
+	color: #fff;
+}
+.successbox {
+	background: #1d371f;
+}
+.warningbox {
+	background: #333519;
+}
+.messagebox {
+	background: #192931;
+}
+}
